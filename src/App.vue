@@ -1,6 +1,8 @@
-<template class="main">
-  <SearchLocation/>
-  <InfoWeather/>
+<template>
+    <main>
+        <SearchLocation/>
+        <InfoWeather/>
+    </main>
 </template>
 
 <script>
